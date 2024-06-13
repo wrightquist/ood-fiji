@@ -1,10 +1,8 @@
 ---
-name: JupyterLab
+name: Fiji
 category: Interactive Apps
 subcategory: Servers
 role: batch_connect
-description: |
-  This app will launch [JupyterLab] on the [Rivanna cluster].
-
-  [JupyterLab]: https://jupyter.org/
-  [Rivanna cluster]: https://www.rc.virginia.edu/userinfo/rivanna/overview/
+description: "This app will launch [Fiji] on the [Rivanna cluster].\r\n\r\n[Fiji]:
+  https://fiji.sc/\r\n[Rivanna cluster]: https://www.rc.virginia.edu/userinfo/rivanna/overview/\r\n"
+icon: ''
